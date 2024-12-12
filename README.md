@@ -23,8 +23,11 @@ Data-Driven Decision Making: Enables informed decisions based on real-time data 
 Optimized Sales Strategies: Identifies high-performing areas and focuses resources accordingly.
 Improved Sales Efficiency: Streamlines sales processes and reduces inefficiencies.
 Enhanced Customer Understanding: Gains insights into customer preferences and behavior.
+
 Additional Features:
 
 Interactive Visualizations: Drill-down capabilities and filters to explore data at different levels of detail.
+
 Customizable Dashboards: Tailor the dashboard to specific needs and preferences.
+
 Real-time Data Updates: Ensures that the dashboard always reflects the latest data.
